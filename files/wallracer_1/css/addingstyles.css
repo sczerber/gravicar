@@ -1,0 +1,9 @@
+.first_button_click {
+	position: relative;
+	margin: 0;
+	left: 50%;
+	margin-right: 50%;
+	margin-top: 15%;
+	transform: translate(-50%, -50%)
+	
+}
