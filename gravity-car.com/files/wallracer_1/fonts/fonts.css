@@ -1,0 +1,39 @@
+@font-face {
+    font-family:'m500';
+    src: url('MuseoSansCyrl-500.woff2') format('woff2'),
+		url('MuseoSansCyrl-500.woff') format('woff'),
+		url('MuseoSansCyrl-500.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-0525;
+}
+.m500 {
+    font-family:'m500';
+}
+@font-face {
+    font-family:'m700';
+    src: url('MuseoSansCyrl-700.woff2') format('woff2'),
+		url('MuseoSansCyrl-700.woff') format('woff'),
+		url('MuseoSansCyrl-700.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-0525;
+}
+.m700 {
+    font-family:'m700';
+}
+@font-face {
+    font-family:'m900';
+    src: url('MuseoSansCyrl-900.woff2') format('woff2'),
+		url('MuseoSansCyrl-900.woff') format('woff'),
+		url('MuseoSansCyrl-900.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-0525;
+}
+.m900 {
+    font-family:'m900';
+}
